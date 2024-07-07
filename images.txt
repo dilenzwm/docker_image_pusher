@@ -1,2 +1,4 @@
-opensearchproject/opensearch:latest
-opensearchproject/opensearch-dashboards:latest
+mysql/mysql-server:5.7
+opensearchproject/opensearch:2.8.0
+opensearchproject/opensearch-dashboards:2.8.0
+divenswu/face-search:2.1.0
