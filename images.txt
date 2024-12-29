@@ -1,1 +1,1 @@
-minio/minio
+frost1123/onlyoffice:7.3.3.40
