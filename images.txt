@@ -1,1 +1,10 @@
-onlyoffice/documentserver
+amazoncorretto:8-alpine-jdk
+ubuntu:22.04
+nginx:alpine
+mysql:8.0.21
+redis:6.2.7
+rabbitmq:3.8.22-management
+elasticsearch:8.14.3
+minio/minio:RELEASE.2025-04-22T22-12-26Z
+zlmediakit/zlmediakit:master
+milvusdb/milvus:v2.4.0
